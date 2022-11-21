@@ -1,0 +1,23 @@
+/*nav{
+    background-color:#6a11cb ;
+    color:white;
+}
+
+.nav-link{
+    margin-right:1 rem;
+    letter-spacing:0.05 rem ;
+    transition:0.5s;
+}
+
+.navbar-brand{
+    letter-spacing:0.05 rem;
+}
+
+li:hover{
+    border:white 2px solid;
+
+}*/
+
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
