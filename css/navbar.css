@@ -1,4 +1,4 @@
-/*nav{
+nav{
     background-color:#6a11cb ;
     color:white;
 }
@@ -16,8 +16,7 @@
 li:hover{
     border:white 2px solid;
 
-}*/
-
+}
 nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
